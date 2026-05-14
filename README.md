@@ -4,8 +4,8 @@ My Network Security E-Portfolio
 # Personal Career Development Portfolio
 
 ## Student Information
-Name: Nur Husnina binti Ishak 
-Course: Bachelor of Computer Science (Internet Computing) with Honour 
+Name: Nur Husnina binti Ishak   
+Course: Bachelor of Computer Science (Internet Computing) with Honour   
 Subject: CSA30203 Special Topics in Computer Network Security  
 
 ---
